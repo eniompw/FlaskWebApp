@@ -1,0 +1,5 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font:16px Arial,sans-serif;background:#f4f4f4}
+header,footer{background:#35424a;color:#fff;padding:20px 0}
+main{padding:40px 0}
+.container{width:80%;margin:auto}
